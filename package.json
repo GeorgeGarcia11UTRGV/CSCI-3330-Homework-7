@@ -1,0 +1,28 @@
+{
+  "name": "3330-homework-7-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeGarcia11UTRGV/CSCI-3330-Homework-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/GeorgeGarcia11UTRGV/CSCI-3330-Homework-7/issues"
+  },
+  "homepage": "https://github.com/GeorgeGarcia11UTRGV/CSCI-3330-Homework-7#readme",
+  "dependencies": {
+    "ejs": "^7.0.2",
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  },
+  "devDependencies": {}
+}
